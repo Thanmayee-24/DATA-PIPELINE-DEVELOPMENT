@@ -96,3 +96,9 @@ Displays the raw and cleaned data for comparison.
 Confirms that the final CSV file has been created.
 
 The project files are well-commented and stored in a public GitHub repository for review. This project marks an important step in my data science and engineering journey, and I look forward to building more advanced pipelines in the future.
+
+OUTPUT:
+
+<img width="1915" height="1005" alt="Image" src="https://github.com/user-attachments/assets/1bb94873-6ecb-4785-bf3c-9ecd2d7c376d" />
+
+<img width="1901" height="1013" alt="Image" src="https://github.com/user-attachments/assets/d948302a-739d-4e21-98ce-bb3eeeaec4e1" />
