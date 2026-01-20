@@ -36,7 +36,7 @@ Pandas – Used for data reading, manipulation, and cleaning.
 
 Scikit-learn (sklearn) – Used for preprocessing operations like scaling and encoding.
 
-VS Code – IDE used for writing and running the Python script.
+Google Colab- Used for running python program
 
 Git & GitHub – Version control and hosting the project code online.
 
